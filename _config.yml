@@ -47,15 +47,15 @@ features                                  :
     fontawesome_icon_name                 : window-maximize
 
   - title                                 : 3 Widget Themes
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+    description                           : Customise the style of widgets by selecting the light, dark or blue themes.
     fontawesome_icon_name                 : palette
 
   - title                                 : Auto-refreshing Timelime
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+    description                           : Twidget updates automatically to keep your Twitter timeline in sync.
     fontawesome_icon_name                 : sync
 
   - title                                 : Feature Requests
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    description                           : If you have any feature requests, feedback or questions; please don't hesitate to get in touch.
     fontawesome_icon_name                 : question
 
 
