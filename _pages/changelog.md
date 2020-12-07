@@ -25,6 +25,14 @@ Each widget will **automatically refresh** with new tweets. Simply tapping a par
 - Integrated with Twitter's official API.
 - Tap tweets to explore.
 
+## **Version 1.0.1**
+Welcome to Twidget v1.0.1.
+
+#### New Features
+- Updated App Store screenshots.
+- App Store review functionality integrated in-app.
+- Minor styling bug fixes.
+
 <br>
 
 ________
