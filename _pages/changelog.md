@@ -33,6 +33,14 @@ Welcome to Twidget v1.0.1.
 - App Store review functionality integrated in-app.
 - Minor styling bug fixes.
 
+## **Version 1.0.2**
+Welcome to Twidget v1.0.2.
+
+#### New Features
+- Highlighted hashtags, handles and urls in tweets.
+- Customisable font sizes for widget tweets.
+- Minor bug fixes.
+
 <br>
 
 ________
