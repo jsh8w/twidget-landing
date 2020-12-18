@@ -38,6 +38,10 @@ features                                  :
     description                           : View your live Twitter timeline right on your iPhone home screen.
     fontawesome_icon_name                 : hashtag
 
+  - title                                 : Show any User's Tweets
+    description                           : Choose any specific Twitter user to follow their tweets.
+    fontawesome_icon_name                 : user
+
   - title                                 : Beautiful iOS 14 Widget
     description                           : Designed for specifically for iOS 14 Devices and the Apple WidgetKit SDK.
     fontawesome_icon_name                 : mobile
@@ -49,10 +53,6 @@ features                                  :
   - title                                 : 3 Widget Themes
     description                           : Customise the style of widgets by selecting the light, dark or blue themes.
     fontawesome_icon_name                 : palette
-
-  - title                                 : Auto-refreshing Timelime
-    description                           : Twidget updates automatically to keep your Twitter timeline in sync.
-    fontawesome_icon_name                 : sync
 
   - title                                 : Feature Requests
     description                           : If you have any feature requests, feedback or questions; please don't hesitate to get in touch.

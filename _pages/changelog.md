@@ -41,6 +41,13 @@ Welcome to Twidget v1.0.2.
 - Customisable font sizes for widget tweets.
 - Minor bug fixes.
 
+## **Version 1.0.3**
+Welcome to Twidget v1.0.3.
+
+#### New Features:
+- Added functionality to view any specific user's tweets.
+- Fixed crash when rendering different font styles.
+
 <br>
 
 ________
