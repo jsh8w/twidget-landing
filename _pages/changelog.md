@@ -48,6 +48,14 @@ Welcome to Twidget v1.0.3.
 - Added functionality to view any specific user's tweets.
 - Fixed crash when rendering different font styles.
 
+## **Version 1.0.4**
+Welcome to Twidget v1.0.4.
+
+#### New Features:
+- Added functionality to open tweets in 3rd party Twitter apps. e.g Tweetbot.
+- Set widget default theme based on system appearance (light/dark mode).
+- Fixed bug where tweets were not opening correctly on large widget.
+
 <br>
 
 ________
