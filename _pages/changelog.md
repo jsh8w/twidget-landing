@@ -56,6 +56,15 @@ Welcome to Twidget v1.0.4.
 - Set widget default theme based on system appearance (light/dark mode).
 - Fixed bug where tweets were not opening correctly on large widget.
 
+## **Version 1.0.5**
+Welcome to Twidget v1.0.5.
+
+In order to keep a free version of Twidget available; we've introduced ads to the app. We've also reduced how often a widget refreshes to 30 minutes.
+
+To further support the development and maintenance of Twidget, we've introduced in-app purchases and subscriptions. These will remove the ads, allow widgets to be refreshed minutely, and also allow specific accounts to be followed.
+
+Thanks for taking the time to look at Twidget. If you have any feature requests, feedback or questions; please don't hesitate to get in touch.
+
 <br>
 
 ________
