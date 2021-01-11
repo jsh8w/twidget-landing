@@ -65,6 +65,14 @@ To further support the development and maintenance of Twidget, we've introduced 
 
 Thanks for taking the time to look at Twidget. If you have any feature requests, feedback or questions; please don't hesitate to get in touch.
 
+## **Version 1.0.6**
+Welcome to Twidget v1.0.6.
+
+#### New Features:
+- Added functionality to show tweets for a particular hashtag.
+- Added ability to show/hide retweets.
+- Added dark mode into the app.
+
 <br>
 
 ________
